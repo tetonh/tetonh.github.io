@@ -293,9 +293,9 @@ margin-bottom: 150px;
   color: black;
   font-family: 'Libre Baskerville', serif;
 }
-.journals-ul{
-  list-style-type: dash;
-  line-height: 40px;
+
+.journals-text a:any-link{
+  color: goldenrod;
 }
 
 .zoom:hover {
